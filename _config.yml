@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
+title: Thames Valley Fungus Group
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -59,8 +59,8 @@ plugins:
 
 author:
   name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  avatar : "/assets/images/tvfgLogo.jpg"
+  bio    : "Thames Valley Fungus Group"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -113,3 +113,8 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+excerpt: "This post should display a **header with an overlay image**, if the theme supports it."
+header:
+  overlay_image: /assets/images/russula1.jpg
+  caption: "Photo credit: [**Copright David McMahon)"
