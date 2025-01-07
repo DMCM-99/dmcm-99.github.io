@@ -1,11 +1,11 @@
 main:
   - title: "Forays"
     url: /forays/
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
+  #- title: "Posts"
+  #  url: /posts/
+  #- title: "Categories"
+  #  url: /categories/
+  #- title: "Tags"
+  #  url: /tags/
   - title: "About"
     url: /about/
