@@ -58,9 +58,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "TVFG"
   avatar : "/assets/images/tvfgLogo.jpg"
-  bio    : "Thames Valley Fungus Group"
+  bio    : ""
   links:
   #  - label: "Website"
   #    icon: "fas fa-fw fa-link"
@@ -100,16 +100,16 @@ defaults:
       share: true
       related: true
   # _pages
-  - scope:
-      path: "_pages"
-      type: pages
-    values:
-      layout: single
+  #- scope:
+  #   path: "_pages"
+  #   type: pages
+  #  values:
+  #   layout: single
       author_profile: true
 
-category_archive:
-  type: liquid
-  path: /categories/
-tag_archive:
-  type: liquid
-  path: /tags/
+#category_archive:
+#  type: liquid
+#  path: /categories/
+#tag_archive:
+#  type: liquid
+#  path: /tags/
