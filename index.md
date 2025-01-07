@@ -6,6 +6,6 @@ layout: splash
 excerpt: "Supporting fungal conservation in Berkshire and the Thames Valley"
 header:
  overlay_image: /assets/images/splash.jpg
-# caption: "Photo credit: [**Copright David McMahon)"
+# caption: "Photo credit: "
 author_profile: false
 ---
