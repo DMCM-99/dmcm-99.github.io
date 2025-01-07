@@ -1,6 +1,7 @@
 ---
 permalink: /forays/
 title: "Foray Programme 2025"
+layout: single
 ---
 **Important Information**
 
