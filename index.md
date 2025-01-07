@@ -5,7 +5,7 @@
 layout: splash
 excerpt: "This post should display a **header with an overlay image**, if the theme supports it."
 header:
- overlay_image: /assets/images/Russula1.jpg
+ overlay_image: /assets/images/Russula1.JPG
  caption: "Photo credit: [**Copright David McMahon)"
 author_profile: true
 ---
