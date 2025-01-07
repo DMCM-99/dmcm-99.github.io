@@ -5,7 +5,7 @@
 layout: Header Image Overlay with Custom Tagline
 excerpt: "This post should display a **header with an overlay image**, if the theme supports it."
 header:
-  overlay_image: /assets/images/russula1.jpg
-  caption: "Photo credit: [**Copright David McMahon)"
+ overlay_image: /assets/images/russula1.jpg
+ caption: "Photo credit: [**Copright David McMahon)"
 author_profile: true
 ---
