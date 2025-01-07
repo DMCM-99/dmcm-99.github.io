@@ -9,4 +9,4 @@ header:
  caption: "xyz"
 author_profile: true
 ---
-Hello World
+Welcome to the Thames Valley Fungus group. TWe are a group of enthusiasts interested in the identification, conservation and recording of fungi in the Thames Valley area. We meet for forays during the year, primarily during the Autumn months and further details can be found on our forays page. 
