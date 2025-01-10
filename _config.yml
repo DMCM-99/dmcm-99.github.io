@@ -72,8 +72,8 @@ author:
   #    icon: "fab fa-fw fa-github"
   #    url: "https://github.com/"
   #  - label: "Instagram"
-  #    icon: "fab fa-fw fa-instagram"
-  #    url: "https://instagram.com/"
+  #    icon: "fab fa-fw fa-facebook"
+   #   url: "https://facebook.com/"
 
 footer:
   links:
@@ -86,19 +86,21 @@ footer:
   #  - label: "Instagram"
   #    icon: "fab fa-fw fa-instagram"
   #    url: "https://instagram.com/"
-
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook"
+      url: "https://facebook.com/"
 defaults:
-  # _posts
-  #- scope:
-  #    path: ""
-  #    type: posts
-  #  values:
-  #    layout: single
-  #    author_profile: true
-  #    read_time: true
-  #    comments: true
-  #    share: true
-  #related: true
+   _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
   # _pages
   - scope:
      path: "_pages"
