@@ -5,7 +5,7 @@
 layout: splash
 excerpt: "Supporting fungal conservation in Berkshire and the Thames Valley"
 header:
- overlay_image: /assets/images/splash.jpg
+ overlay_image: /assets/images/splashbanner_A.jpg
 # caption: "xyz"
 author_profile: true
 ---
